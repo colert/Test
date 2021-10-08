@@ -4,4 +4,5 @@ def fonction_git(x):
 print('bonjour')
 
 print("bonsoir")
+print("test")
 
